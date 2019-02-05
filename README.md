@@ -42,6 +42,10 @@ The user password is `vagrant`.
 First start can be long but on next boot, the _VM_ will start in seconds.  
 **Don't forget to modify your keyboard layout after the first login.**
 
+## Customization
+
+See the `custom.sh` file.
+
 ## Resources
 
-* [VirtualBox `modifyvm`](https://www.virtualbox.org/manual/ch08.html#vboxmanage-modifyvm)
+* [VirtualBox `modifyvm`](https://www.virtualbox.org/manual/ch08.html#vboxmanage-modifyvm) to tweak the VM according your needs
