@@ -1,7 +1,18 @@
 # JHipster-based devbox
 
+This is a ready-to-go dev environment in a Virtualbox VM.
+
 Please consult the [JHipser dev box site](https://github.com/jhipster/jhipster-devbox) to see already bundle software.  
 
+Spoiler alert !
+- Ubuntu
+- OpenJDK
+- Docker
+- NPM
+- NodeJS
+- Chromium, Firefox
+- ...
+ 
 _<small>Requires Vagrant and VirtualBox</small>_
 
 ## Extra Bundle
@@ -27,6 +38,9 @@ _A cup of coffee ? This may take a while._
 
 The user password is `vagrant`.  
 **The current keyboard layout is _US_.**
+
+First start can be long but on next boot, the _VM_ will start in seconds.  
+**Don't forget to modify your keyboard layout after the first login.**
 
 ## Resources
 
