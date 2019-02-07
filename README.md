@@ -46,6 +46,14 @@ First start can be long but on next boot, the _VM_ will start in seconds.
 
 See the `custom.sh` file.
 
+## Tips
+
+### Guake
+_<small>Shortcut F12</small>_
+
+- Selected text is automatically copied (but not in host clipboard)
+- Clipboard is pasted with **middle-click**
+
 ## Resources
 
 * [VirtualBox `modifyvm`](https://www.virtualbox.org/manual/ch08.html#vboxmanage-modifyvm) to tweak the VM according your needs
